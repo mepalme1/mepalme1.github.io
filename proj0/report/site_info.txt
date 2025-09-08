@@ -11,8 +11,8 @@
 </head>
 <body>
     <h1>Wepage Report url</h1>
-    <a href="project0/page.pdf"> Report </a>
+    <a href="mepalme1.github.io/proj0/report"> Report </a>
     <h1>Git repo url</h1>
-    <a href="mepalme1.github.io"> Git repo </a>
+    <a href="mepalme1.github.io/"> Git repo </a>
 </body>
 </html>
