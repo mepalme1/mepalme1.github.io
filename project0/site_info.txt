@@ -10,8 +10,9 @@
     </style>
 </head>
 <body>
-    <h1>Wepage Report Url</h1>
-    <h3>Project 0</h3>
-
+    <h1>Wepage Report url</h1>
+    <a href="project0/page.pdf"> Report </a>
+    <h1>Git repo url</h1>
+    <a href="mepalme1.github.io"> Git repo </a>
 </body>
 </html>
