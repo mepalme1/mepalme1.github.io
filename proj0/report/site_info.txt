@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Project 0</title>
+    <title> csci 581 </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -10,9 +10,10 @@
     </style>
 </head>
 <body>
-    <h1>Wepage Report url</h1>
+    <h1> Project 0 </h1>
+    <h2> Wepage Report url </h2>
     <a href="mepalme1.github.io/proj0/report"> Report </a>
-    <h1>Git repo url</h1>
-    <a href="mepalme1.github.io/"> Git repo </a>
+    <h2> Git repo url </h2>
+    <a href="https://github.com/mepalme1/mepalme1.github.io"> Git repo </a>
 </body>
 </html>
