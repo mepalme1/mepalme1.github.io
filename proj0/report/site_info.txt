@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> csci 581 </title>
+    <title> mark palmer ST 581 </title>
     <style>
         body {
             font-family: Arial, sans-serif;
